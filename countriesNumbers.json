@@ -1,7 +1,7 @@
 [
   {
     "name": "Afghanistan",
-    "flag": "https://flagcdn.com/w320/af.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
     "calling_code": "+93",
     "example": "70 123 4567"
   },
@@ -1170,3 +1170,4 @@
     "example": "71 234 5678"
   }
 ]
+
